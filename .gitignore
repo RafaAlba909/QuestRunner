@@ -1,0 +1,28 @@
+# Ignorar archivos compilados y de caché
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Ignorar archivos de entorno virtual
+env/
+venv/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de logs
+*.log
+
+# Otros archivos temporales
+*.swp
+*.bak
+
+# Ignorar archivos de dependencias locales
+*.db
+*.sqlite3
+
+# Ignorar el archivo de configuración de entornos virtuales
+.env
