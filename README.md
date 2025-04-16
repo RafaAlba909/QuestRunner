@@ -30,5 +30,11 @@ Este proyecto está diseñado para quienes deseen explorar el desarrollo de jueg
 - Asegúrate de tener **Python 3** instalado en tu máquina. Si no lo tienes, puedes descargarlo desde [aquí](https://www.python.org/downloads/).
 - Instala las dependencias del proyecto utilizando el siguiente comando:
 
-  ```bash
-  pip install -r requirements.txt
+
+## 🚀 Cómo Probar el Juego
+
+- git clone https://github.com/RafaAlba909/QuestRunner.git
+- cd QuestRunner
+- pip install -r requirements.txt
+- python main.py
+
